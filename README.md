@@ -1,4 +1,4 @@
-# 📌 Product Purchase Predictions: CNN+LSTM Multi-Output Demand Forecasting
+# 📌 Product Purchase Prediction
 > A deep learning pipeline that forecasts next-day purchase volumes for 43 products simultaneously using a CNN+LSTM architecture over lag and calendar features, built with PyTorch.
 
 
